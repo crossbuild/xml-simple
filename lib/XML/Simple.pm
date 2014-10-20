@@ -1,4 +1,7 @@
 package XML::Simple;
+BEGIN {
+  $XML::Simple::VERSION = '2.20';
+}
 
 =head1 NAME
 

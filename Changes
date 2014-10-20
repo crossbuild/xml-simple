@@ -1,6 +1,4 @@
-Revision history for {{$dist->name}}
-
-{{$NEXT}}
+Revision history for XML-Simple
 
 2.20      2012-06-20 22:00:13 Pacific/Auckland
   - Suppress warning from empty CDATA section (RT#58359 from Juan Antonio
